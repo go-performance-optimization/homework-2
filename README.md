@@ -18,7 +18,7 @@ Knowing assembly, even a little, means understanding computers better](https://y
 
 `func LowerBound(slice []int64, value int64) int64`
 
-Необходимо реализовать одну из вариаций бинарного поиска - [LowerBound](https://en.wikipedia.org/wiki/Upper_and_lower_bounds)
+Необходимо реализовать одну из вариаций бинарного поиска - [LowerBound](https://en.wikipedia.org/wiki/Binary_search)
 
 **Fibonacci**
 
